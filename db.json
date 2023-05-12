@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id":1,
+      "text": "do homework",
+      "day":"monday",
+      "remainder":true
+  },
+  {
+      "id":2,
+      "text": "meeting at school",
+      "day":"wedesday",
+      "remainder":true
+  },
+  {
+    "id":3,
+    "text": "food shopping",
+    "day":"friday",
+    "remainder":false
+  }
+    
+  ]
+}
